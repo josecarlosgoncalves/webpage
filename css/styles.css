@@ -11134,7 +11134,8 @@ span{
 
 .newsletter .content .btn {
   min-height: 40px; 
-  border-radius:0;
+  border-top-right-radius:5px;
+  border-bottom-right-radius: 5px;
   background: #ec008b;
   color: #fff;
   font-weight:600;
